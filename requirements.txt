@@ -1,6 +1,5 @@
 streamlit
 yfinance
-tensorflow-cpu
 scikit-learn
 matplotlib
 pandas
